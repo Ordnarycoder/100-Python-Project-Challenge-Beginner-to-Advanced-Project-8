@@ -1,0 +1,1 @@
+I made a basic multiplication table in this project. Then I used range for limited results.
